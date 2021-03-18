@@ -31,7 +31,7 @@ if (covidData != None):
                 active=data["active"]),
 
            
-            # the notification stays for 50sec
+            # the notification stays for 20sec
             timeout=20
         )
 
